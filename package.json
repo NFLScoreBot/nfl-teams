@@ -1,6 +1,7 @@
 {
 	"name": "nfl-teams",
 	"description": "Identify NFL teams from full names, nicknames, and malformed names.",
+	"keywords": ["nfl", "team", "teams", "nickname"],
 	"author": {
 		"name":"David Pearson",
 		"url":"http://dpearson.me"
@@ -9,7 +10,7 @@
 		"type":"git",
 		"url":"https://github.com/nflscorebot/nfl-teams.git"
 	},
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"dependencies": {
 		"natural": "0.1.26"
 	},
