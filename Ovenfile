@@ -1,0 +1,13 @@
+{
+	"directories":[
+		{
+			"src":"./src",
+			"bin":"./lib"
+		},
+		{
+			"src":"./tests/src",
+			"bin":"./tests/bin",
+			"skipLint":true
+		}
+	]
+}
