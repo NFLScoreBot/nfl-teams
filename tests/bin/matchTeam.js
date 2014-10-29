@@ -10,7 +10,7 @@
 
   assert = require("assert");
 
-  teams = require("../../bin");
+  teams = require(__dirname + "/../../lib");
 
   vows = require("vows");
 
