@@ -24,6 +24,7 @@ teams =
 	"San Diego Chargers"   : ["chargers", "bolts"]
 	"Dallas Cowboys"       : ["cowboys", "boys", "americas team"]
 	"New York Giants"      : ["giants", "big blue", "gmen"]
+	"Philadelphia Eagles"  : ["eagles", "philly"]
 	"Washington Redskins"  : ["redskins", "skins"]
 	"Chicago Bears"        : ["bears"]
 	"Detroit Lions"        : ["lions"]
