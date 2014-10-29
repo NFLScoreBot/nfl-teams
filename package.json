@@ -10,12 +10,12 @@
 		"type":"git",
 		"url":"https://github.com/nflscorebot/nfl-teams.git"
 	},
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"dependencies": {
-		"natural": "0.1.26"
+		"natural": "0.1.28"
 	},
 	"devDependencies":{
-		"coffee-script":"1.7.1",
+		"coffee-script":"1.8.0",
 		"vows": "0.7.0"
 	},
 	"scripts": {
